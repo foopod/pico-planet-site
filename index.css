@@ -26,11 +26,11 @@ body {
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
 }
 p {
-    font-size: 300%;
+    font-size: 250%;
 }
 
 .larger {
-    font-size: 600%;
+    font-size: 550%;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
